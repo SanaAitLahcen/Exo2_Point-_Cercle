@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exo2_Point _Cercle", "Exo2_Point _Cercle.vcxproj", "{E3D42F9A-4A1E-4B9F-9D3A-7D257F87A4AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3D42F9A-4A1E-4B9F-9D3A-7D257F87A4AD}.Debug|x64.ActiveCfg = Debug|x64
+		{E3D42F9A-4A1E-4B9F-9D3A-7D257F87A4AD}.Debug|x64.Build.0 = Debug|x64
+		{E3D42F9A-4A1E-4B9F-9D3A-7D257F87A4AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3D42F9A-4A1E-4B9F-9D3A-7D257F87A4AD}.Debug|x86.Build.0 = Debug|Win32
+		{E3D42F9A-4A1E-4B9F-9D3A-7D257F87A4AD}.Release|x64.ActiveCfg = Release|x64
+		{E3D42F9A-4A1E-4B9F-9D3A-7D257F87A4AD}.Release|x64.Build.0 = Release|x64
+		{E3D42F9A-4A1E-4B9F-9D3A-7D257F87A4AD}.Release|x86.ActiveCfg = Release|Win32
+		{E3D42F9A-4A1E-4B9F-9D3A-7D257F87A4AD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F70ADE-94FF-4FDB-9E5F-C65B3541A629}
+	EndGlobalSection
+EndGlobal
